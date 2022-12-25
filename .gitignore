@@ -1,5 +1,10 @@
+# Folder
 .venv
-data*
+data/*
+
+# Files
+.env
+ *.pyc
 
 # Python
 *__pycache__*
